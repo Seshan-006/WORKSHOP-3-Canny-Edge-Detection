@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 # Step 1: Read an image (replace with your own)
 ```
-image_path = "coins.jpg"  # You can use any sample image
+image_path = "color.jpg"  # You can use any sample image
 image = cv2.imread(image_path)
 
 if image is None:
@@ -63,7 +63,8 @@ plt.show()
 ```
 
 # Output
-<img width="1348" height="797" alt="image" src="https://github.com/user-attachments/assets/cca3efb9-1397-4a80-b1f8-fcff3ae10582" />
+<img width="800" height="790" alt="download" src="https://github.com/user-attachments/assets/4a0f72d3-98d3-4858-af53-acb5444b74b7" />
+
 
 # RESULT
 Thus the result have been executed successfully.
