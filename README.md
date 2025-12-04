@@ -1,6 +1,6 @@
 # Canny Edge Detection
-### Name: AANKARSH J
-### Reg NO :212223233001
+### Name: SESHAN J
+### Reg NO :212224220092
 # Program
 # Canny Edge Detection in Python
 
